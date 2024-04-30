@@ -11,4 +11,4 @@ laravel создал 2 файла сам
 [package.json](backend/package.json)
 [vite.config.js](backend-vite.config.js)
 </pre>
-Посмотри нужны ли они тебе, если нет, вы
+Посмотри нужны ли они тебе, если нет, выпили
